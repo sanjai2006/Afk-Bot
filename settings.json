@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "samplepTf0.aternos.me",
+    "port": 26890,
     "version": "1.19.3"
   },
 
